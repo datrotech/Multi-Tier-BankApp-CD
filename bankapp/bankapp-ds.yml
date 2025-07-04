@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: datrotech/bankapp:v5
+        image: datrotech/bankapp:v8
         ports:
         - containerPort: 8080
         env:
